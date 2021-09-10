@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c71d559d-beea-4547-94a0-fca6148af1b9/deploy-status)](https://app.netlify.com/sites/dsvendas-jeferson/deploys)
+
 # DSVendas - Monorepo
 > Backend e Frontend do projeto Semana spring React junto a DevSuperior.
 
