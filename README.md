@@ -30,7 +30,10 @@
   - React
   - Bootstrap
   - ApexCharts
+  - Axios
+  - date-fns
 - Ferramentas
   - Intellij 
   - GitHub
+  - Netlify
   - Heroku
